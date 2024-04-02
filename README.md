@@ -11,7 +11,7 @@ This is a simple Node.js Express API for managing hotel rooms.
 
 ## Installation
 
-1. Clone the repository: [repo link...](https://github.com/solowiseCV/HotelApiTAsk10Typescript1);
+1. Clone the repository: [repo link...](https://github.com/solowiseCV/hotelApiWithTypescript1);
 
 
 2. Install dependencies: npm install
